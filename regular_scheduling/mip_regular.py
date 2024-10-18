@@ -8,12 +8,13 @@ from regular_scheduling.tools import show
 class Regular_Model(Model):
 
     def __init__(self,name = None,context = None,**kwargs):
+        """ Create a docplex.mp.model.Model instance."""
         super().__init__(name,context,**kwargs)
         self.regular_solutions = {}
         self.building_time = None
 
     def add_regular_constraint(self,x,number,sequence,*dfas, ctname = None):
-
+        """ Add (and return) a set of regular based constraints."""
         dfa = intersection(*dfas)
         dfa = unfold(dfa,sequence)
 
@@ -61,9 +62,9 @@ class Regular_Model(Model):
         return flow_constraints
     
     def add_regular_constraint_(self,x,number,sequence,*dfas, ctname = None):
-
+        """ Add a set of regular based constraints."""
         self.add_regular_constraint(self,x,number,sequence,*dfas, ctname = ctname)
     
     def get_regular_solution(self,regular_ct):
-
+        """ Retrieve words corresponding to regular based constraints in the current solution."""
         return self.regular_solutions[str(regular_ct)]()
