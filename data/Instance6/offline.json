@@ -1,0 +1,215 @@
+{
+    "contracts": {
+        "A": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "B": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "D": 0,
+                "E": 0
+            }
+        },
+        "C": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "E": 0
+            }
+        },
+        "E": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        },
+        "F": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "D": 0
+            }
+        },
+        "I": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "E": 0,
+                "L": 0
+            }
+        },
+        "K": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "E": 0
+            }
+        },
+        "L": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        },
+        "P": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        },
+        "Q": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        }
+    },
+    "shifts_length": {
+        "D": 480,
+        "E": 480,
+        "L": 480
+    }
+}

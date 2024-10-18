@@ -1,0 +1,245 @@
+{
+    "contracts": {
+        "A": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "B": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 3
+            }
+        },
+        "D": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "D": 0,
+                "L": 3
+            }
+        },
+        "E": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "D": 0,
+                "L": 0
+            }
+        },
+        "K": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "L": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "E": 0,
+                "L": 3
+            }
+        },
+        "M": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 3
+            }
+        },
+        "P": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 1
+            }
+        },
+        "Q": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "E": 0,
+                "L": 1
+            }
+        },
+        "R": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "S": {
+            "rotation": {
+                "D": [
+                    "E"
+                ],
+                "L": [
+                    "E",
+                    "D"
+                ]
+            },
+            "max_workload": 1080,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 1,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "D": 0,
+                "L": 1
+            }
+        }
+    },
+    "shifts_length": {
+        "D": 480,
+        "E": 480,
+        "L": 480
+    }
+}

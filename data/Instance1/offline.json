@@ -1,0 +1,18 @@
+{
+    "contracts": {
+        "A": {
+            "rotation": {},
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        }
+    },
+    "shifts_length": {
+        "D": 480
+    }
+}

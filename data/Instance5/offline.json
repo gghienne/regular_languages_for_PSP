@@ -1,0 +1,76 @@
+{
+    "contracts": {
+        "A": {
+            "rotation": {
+                "L": [
+                    "E"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "C": {
+            "rotation": {
+                "L": [
+                    "E"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "L": 4
+            }
+        },
+        "K": {
+            "rotation": {
+                "L": [
+                    "E"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 2,
+            "max_shifts": {
+                "L": 0
+            }
+        },
+        "M": {
+            "rotation": {
+                "L": [
+                    "E"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 2,
+            "max_shifts": {
+                "L": 4
+            }
+        }
+    },
+    "shifts_length": {
+        "E": 480,
+        "L": 480
+    }
+}

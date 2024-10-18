@@ -1,0 +1,1800 @@
+{
+    "employees": {
+        "A": {
+            "contract": "A",
+            "days_off": [
+                16,
+                19
+            ],
+            "request_on": [
+                {
+                    "day": 9,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 10,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 11,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 21,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 22,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 23,
+                    "shift": "D",
+                    "weight": 2
+                }
+            ]
+        },
+        "AA": {
+            "contract": "AA",
+            "days_off": [
+                6,
+                7
+            ],
+            "request_on": [
+                {
+                    "day": 8,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 9,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 10,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 11,
+                    "shift": "N",
+                    "weight": 2
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 19,
+                    "shift": "N",
+                    "weight": 3
+                }
+            ]
+        },
+        "AB": {
+            "contract": "AB",
+            "days_off": [
+                1,
+                3
+            ],
+            "request_on": [
+                {
+                    "day": 23,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 24,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 25,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 26,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 27,
+                    "shift": "N",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "AC": {
+            "contract": "AC",
+            "days_off": [
+                8,
+                16
+            ],
+            "request_on": [
+                {
+                    "day": 1,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 2,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 7,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 25,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 26,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 27,
+                    "shift": "N",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 17,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 18,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 19,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 20,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 21,
+                    "shift": "N",
+                    "weight": 1
+                }
+            ]
+        },
+        "AD": {
+            "contract": "AD",
+            "days_off": [
+                25,
+                26
+            ],
+            "request_on": [
+                {
+                    "day": 7,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 8,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 9,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ],
+            "request_off": []
+        },
+        "AE": {
+            "contract": "AE",
+            "days_off": [
+                14,
+                15
+            ],
+            "request_on": [],
+            "request_off": [
+                {
+                    "day": 1,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 2,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 3,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 4,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 16,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 18,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 19,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 20,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 26,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 27,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 28,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ]
+        },
+        "AF": {
+            "contract": "AE",
+            "days_off": [
+                2,
+                3
+            ],
+            "request_on": [
+                {
+                    "day": 13,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 14,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 15,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 23,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "AG": {
+            "contract": "AG",
+            "days_off": [
+                2,
+                3
+            ],
+            "request_on": [
+                {
+                    "day": 21,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 22,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 23,
+                    "shift": "E",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 4,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 5,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 6,
+                    "shift": "L",
+                    "weight": 2
+                }
+            ]
+        },
+        "AH": {
+            "contract": "AE",
+            "days_off": [
+                6,
+                7
+            ],
+            "request_on": [
+                {
+                    "day": 1,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 2,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 3,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 14,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 15,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 16,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 25,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ]
+        },
+        "AI": {
+            "contract": "AI",
+            "days_off": [
+                14,
+                15
+            ],
+            "request_on": [
+                {
+                    "day": 4,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 11,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 12,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 13,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 22,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 23,
+                    "shift": "D",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "AJ": {
+            "contract": "AJ",
+            "days_off": [
+                1,
+                11
+            ],
+            "request_on": [
+                {
+                    "day": 7,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 8,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 15,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 16,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 18,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 19,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 23,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 24,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 25,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 26,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "B": {
+            "contract": "B",
+            "days_off": [
+                10,
+                11
+            ],
+            "request_on": [
+                {
+                    "day": 1,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 2,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 17,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 18,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 19,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 20,
+                    "shift": "E",
+                    "weight": 2
+                }
+            ]
+        },
+        "C": {
+            "contract": "B",
+            "days_off": [
+                25,
+                26
+            ],
+            "request_on": [
+                {
+                    "day": 23,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 8,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 9,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 10,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 11,
+                    "shift": "E",
+                    "weight": 2
+                }
+            ]
+        },
+        "D": {
+            "contract": "D",
+            "days_off": [
+                14,
+                15
+            ],
+            "request_on": [
+                {
+                    "day": 2,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 18,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 19,
+                    "shift": "L",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 7,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 8,
+                    "shift": "D",
+                    "weight": 2
+                },
+                {
+                    "day": 9,
+                    "shift": "D",
+                    "weight": 2
+                }
+            ]
+        },
+        "E": {
+            "contract": "E",
+            "days_off": [
+                18,
+                24
+            ],
+            "request_on": [
+                {
+                    "day": 2,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 3,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 22,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 23,
+                    "shift": "E",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 11,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 15,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 27,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ]
+        },
+        "F": {
+            "contract": "F",
+            "days_off": [
+                15,
+                16
+            ],
+            "request_on": [
+                {
+                    "day": 9,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 10,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 11,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 17,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 18,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 19,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 20,
+                    "shift": "E",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "G": {
+            "contract": "E",
+            "days_off": [
+                3,
+                4
+            ],
+            "request_on": [],
+            "request_off": [
+                {
+                    "day": 20,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ]
+        },
+        "H": {
+            "contract": "A",
+            "days_off": [
+                19,
+                20
+            ],
+            "request_on": [
+                {
+                    "day": 21,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 22,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 2,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 3,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 4,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 5,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 13,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 14,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 15,
+                    "shift": "E",
+                    "weight": 2
+                }
+            ]
+        },
+        "I": {
+            "contract": "A",
+            "days_off": [
+                9,
+                19
+            ],
+            "request_on": [
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 10,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 11,
+                    "shift": "N",
+                    "weight": 1
+                }
+            ]
+        },
+        "J": {
+            "contract": "A",
+            "days_off": [
+                4,
+                23
+            ],
+            "request_on": [
+                {
+                    "day": 3,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 10,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 11,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 12,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 13,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 18,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 19,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 20,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 27,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 28,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ],
+            "request_off": []
+        },
+        "K": {
+            "contract": "K",
+            "days_off": [
+                2,
+                26
+            ],
+            "request_on": [],
+            "request_off": [
+                {
+                    "day": 4,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 5,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 12,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 13,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 14,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 15,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 16,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ]
+        },
+        "L": {
+            "contract": "K",
+            "days_off": [
+                7,
+                8
+            ],
+            "request_on": [
+                {
+                    "day": 18,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 19,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 20,
+                    "shift": "L",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 9,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 10,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 11,
+                    "shift": "N",
+                    "weight": 1
+                }
+            ]
+        },
+        "M": {
+            "contract": "M",
+            "days_off": [
+                22,
+                23
+            ],
+            "request_on": [
+                {
+                    "day": 1,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 2,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 6,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 7,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 11,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 17,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 18,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 19,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 20,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 21,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 27,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 28,
+                    "shift": "N",
+                    "weight": 3
+                }
+            ],
+            "request_off": []
+        },
+        "N": {
+            "contract": "N",
+            "days_off": [
+                23,
+                26
+            ],
+            "request_on": [],
+            "request_off": [
+                {
+                    "day": 4,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 5,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 12,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ]
+        },
+        "O": {
+            "contract": "N",
+            "days_off": [
+                12,
+                13
+            ],
+            "request_on": [
+                {
+                    "day": 23,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 24,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 25,
+                    "shift": "N",
+                    "weight": 2
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 15,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 16,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 17,
+                    "shift": "E",
+                    "weight": 1
+                }
+            ]
+        },
+        "P": {
+            "contract": "P",
+            "days_off": [
+                8,
+                13
+            ],
+            "request_on": [],
+            "request_off": []
+        },
+        "Q": {
+            "contract": "Q",
+            "days_off": [
+                25,
+                26
+            ],
+            "request_on": [],
+            "request_off": [
+                {
+                    "day": 15,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 16,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 17,
+                    "shift": "L",
+                    "weight": 3
+                }
+            ]
+        },
+        "R": {
+            "contract": "R",
+            "days_off": [
+                15,
+                16
+            ],
+            "request_on": [
+                {
+                    "day": 4,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 5,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 6,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 7,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 8,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 14,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 22,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 23,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 24,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 25,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 26,
+                    "shift": "L",
+                    "weight": 2
+                }
+            ],
+            "request_off": []
+        },
+        "S": {
+            "contract": "S",
+            "days_off": [
+                4,
+                5
+            ],
+            "request_on": [],
+            "request_off": []
+        },
+        "T": {
+            "contract": "T",
+            "days_off": [
+                26,
+                27
+            ],
+            "request_on": [
+                {
+                    "day": 7,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 8,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 9,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 10,
+                    "shift": "N",
+                    "weight": 2
+                },
+                {
+                    "day": 23,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 24,
+                    "shift": "N",
+                    "weight": 3
+                },
+                {
+                    "day": 25,
+                    "shift": "N",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 15,
+                    "shift": "D",
+                    "weight": 2
+                }
+            ]
+        },
+        "U": {
+            "contract": "R",
+            "days_off": [
+                4,
+                15
+            ],
+            "request_on": [
+                {
+                    "day": 18,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 19,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 20,
+                    "shift": "E",
+                    "weight": 3
+                },
+                {
+                    "day": 21,
+                    "shift": "E",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 10,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 11,
+                    "shift": "N",
+                    "weight": 1
+                },
+                {
+                    "day": 12,
+                    "shift": "N",
+                    "weight": 1
+                }
+            ]
+        },
+        "V": {
+            "contract": "S",
+            "days_off": [
+                23,
+                24
+            ],
+            "request_on": [
+                {
+                    "day": 4,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 8,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 15,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 16,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 17,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 18,
+                    "shift": "D",
+                    "weight": 3
+                }
+            ]
+        },
+        "W": {
+            "contract": "W",
+            "days_off": [
+                1,
+                15
+            ],
+            "request_on": [
+                {
+                    "day": 2,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 3,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 4,
+                    "shift": "L",
+                    "weight": 3
+                },
+                {
+                    "day": 20,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 21,
+                    "shift": "L",
+                    "weight": 2
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 25,
+                    "shift": "L",
+                    "weight": 2
+                },
+                {
+                    "day": 26,
+                    "shift": "L",
+                    "weight": 2
+                }
+            ]
+        },
+        "X": {
+            "contract": "R",
+            "days_off": [
+                17,
+                22
+            ],
+            "request_on": [
+                {
+                    "day": 6,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 7,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 8,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 9,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 10,
+                    "shift": "L",
+                    "weight": 1
+                }
+            ],
+            "request_off": []
+        },
+        "Y": {
+            "contract": "R",
+            "days_off": [
+                12,
+                13
+            ],
+            "request_on": [
+                {
+                    "day": 16,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 23,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 24,
+                    "shift": "D",
+                    "weight": 1
+                },
+                {
+                    "day": 25,
+                    "shift": "D",
+                    "weight": 1
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 4,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 5,
+                    "shift": "L",
+                    "weight": 1
+                },
+                {
+                    "day": 6,
+                    "shift": "L",
+                    "weight": 1
+                }
+            ]
+        },
+        "Z": {
+            "contract": "Z",
+            "days_off": [
+                8,
+                9
+            ],
+            "request_on": [
+                {
+                    "day": 2,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 3,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 4,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 5,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 11,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 12,
+                    "shift": "E",
+                    "weight": 1
+                },
+                {
+                    "day": 26,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 27,
+                    "shift": "D",
+                    "weight": 3
+                },
+                {
+                    "day": 28,
+                    "shift": "D",
+                    "weight": 3
+                }
+            ],
+            "request_off": [
+                {
+                    "day": 18,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 19,
+                    "shift": "E",
+                    "weight": 2
+                },
+                {
+                    "day": 20,
+                    "shift": "E",
+                    "weight": 2
+                }
+            ]
+        }
+    },
+    "horizon": 28,
+    "costs": {
+        "undercover": 100,
+        "overcover": 1
+    },
+    "demand": [
+        {
+            "day": 1,
+            "required": {
+                "D": 5,
+                "E": 2,
+                "L": 6,
+                "N": 2
+            }
+        },
+        {
+            "day": 2,
+            "required": {
+                "D": 6,
+                "E": 3,
+                "L": 4,
+                "N": 2
+            }
+        },
+        {
+            "day": 3,
+            "required": {
+                "D": 4,
+                "E": 4,
+                "L": 5,
+                "N": 1
+            }
+        },
+        {
+            "day": 4,
+            "required": {
+                "D": 5,
+                "E": 5,
+                "L": 5,
+                "N": 1
+            }
+        },
+        {
+            "day": 5,
+            "required": {
+                "D": 3,
+                "E": 3,
+                "L": 4,
+                "N": 2
+            }
+        },
+        {
+            "day": 6,
+            "required": {
+                "D": 2,
+                "E": 4,
+                "L": 5,
+                "N": 2
+            }
+        },
+        {
+            "day": 7,
+            "required": {
+                "D": 4,
+                "E": 3,
+                "L": 4,
+                "N": 1
+            }
+        },
+        {
+            "day": 8,
+            "required": {
+                "D": 4,
+                "E": 3,
+                "L": 4,
+                "N": 3
+            }
+        },
+        {
+            "day": 9,
+            "required": {
+                "D": 4,
+                "E": 3,
+                "L": 3,
+                "N": 3
+            }
+        },
+        {
+            "day": 10,
+            "required": {
+                "D": 4,
+                "E": 4,
+                "L": 4,
+                "N": 3
+            }
+        },
+        {
+            "day": 11,
+            "required": {
+                "D": 2,
+                "E": 4,
+                "L": 2,
+                "N": 4
+            }
+        },
+        {
+            "day": 12,
+            "required": {
+                "D": 6,
+                "E": 4,
+                "L": 5,
+                "N": 2
+            }
+        },
+        {
+            "day": 13,
+            "required": {
+                "D": 2,
+                "E": 5,
+                "L": 4,
+                "N": 4
+            }
+        },
+        {
+            "day": 14,
+            "required": {
+                "D": 3,
+                "E": 4,
+                "L": 4,
+                "N": 3
+            }
+        },
+        {
+            "day": 15,
+            "required": {
+                "D": 2,
+                "E": 4,
+                "L": 3,
+                "N": 3
+            }
+        },
+        {
+            "day": 16,
+            "required": {
+                "D": 3,
+                "E": 4,
+                "L": 4,
+                "N": 3
+            }
+        },
+        {
+            "day": 17,
+            "required": {
+                "D": 3,
+                "E": 2,
+                "L": 4,
+                "N": 3
+            }
+        },
+        {
+            "day": 18,
+            "required": {
+                "D": 3,
+                "E": 3,
+                "L": 5,
+                "N": 2
+            }
+        },
+        {
+            "day": 19,
+            "required": {
+                "D": 4,
+                "E": 3,
+                "L": 5,
+                "N": 3
+            }
+        },
+        {
+            "day": 20,
+            "required": {
+                "D": 4,
+                "E": 2,
+                "L": 4,
+                "N": 2
+            }
+        },
+        {
+            "day": 21,
+            "required": {
+                "D": 4,
+                "E": 5,
+                "L": 3,
+                "N": 3
+            }
+        },
+        {
+            "day": 22,
+            "required": {
+                "D": 5,
+                "E": 6,
+                "L": 6,
+                "N": 3
+            }
+        },
+        {
+            "day": 23,
+            "required": {
+                "D": 3,
+                "E": 4,
+                "L": 4,
+                "N": 2
+            }
+        },
+        {
+            "day": 24,
+            "required": {
+                "D": 5,
+                "E": 4,
+                "L": 5,
+                "N": 2
+            }
+        },
+        {
+            "day": 25,
+            "required": {
+                "D": 5,
+                "E": 5,
+                "L": 5,
+                "N": 2
+            }
+        },
+        {
+            "day": 26,
+            "required": {
+                "D": 4,
+                "E": 5,
+                "L": 5,
+                "N": 3
+            }
+        },
+        {
+            "day": 27,
+            "required": {
+                "D": 6,
+                "E": 3,
+                "L": 3,
+                "N": 5
+            }
+        },
+        {
+            "day": 28,
+            "required": {
+                "D": 7,
+                "E": 4,
+                "L": 6,
+                "N": 3
+            }
+        }
+    ]
+}

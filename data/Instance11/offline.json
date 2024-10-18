@@ -1,0 +1,1166 @@
+{
+    "contracts": {
+        "A": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "d1": 0
+            }
+        },
+        "AA": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "p1": 0
+            }
+        },
+        "AB": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d2": 0
+            }
+        },
+        "AC": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "p2": 0
+            }
+        },
+        "AD": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d1": 0
+            }
+        },
+        "AE": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d1": 0,
+                "p1": 0,
+                "p2": 0
+            }
+        },
+        "AF": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0
+            }
+        },
+        "AG": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d1": 0,
+                "d2": 0,
+                "p2": 0
+            }
+        },
+        "AH": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "p2": 0
+            }
+        },
+        "AJ": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "a2": 0,
+                "d2": 0,
+                "p1": 0
+            }
+        },
+        "AK": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "p2": 0
+            }
+        },
+        "AL": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "p1": 0,
+                "p2": 0
+            }
+        },
+        "AM": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "d1": 0,
+                "p2": 0
+            }
+        },
+        "AN": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "p1": 0
+            }
+        },
+        "AO": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "a2": 0,
+                "d1": 0
+            }
+        },
+        "AP": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "p1": 0,
+                "p2": 0
+            }
+        },
+        "AR": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d2": 0
+            }
+        },
+        "AS": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "p1": 0
+            }
+        },
+        "AT": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "p1": 0
+            }
+        },
+        "AU": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d1": 0
+            }
+        },
+        "AV": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "p2": 0
+            }
+        },
+        "AX": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 6,
+                "min_on": 2,
+                "min_off": 3
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        },
+        "B": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d1": 0,
+                "d2": 0
+            }
+        },
+        "C": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d1": 0
+            }
+        },
+        "F": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d1": 0,
+                "d2": 0,
+                "p1": 0
+            }
+        },
+        "G": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d1": 0,
+                "p2": 0
+            }
+        },
+        "H": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {}
+        },
+        "J": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d1": 0,
+                "d2": 0
+            }
+        },
+        "O": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "p1": 0
+            }
+        },
+        "P": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "d1": 0,
+                "d2": 0
+            }
+        },
+        "R": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a1": 0,
+                "d1": 0,
+                "p1": 0
+            }
+        },
+        "S": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "d2": 0
+            }
+        },
+        "T": {
+            "rotation": {
+                "d1": [
+                    "a1",
+                    "a2"
+                ],
+                "d2": [
+                    "a1",
+                    "a2"
+                ],
+                "p1": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ],
+                "p2": [
+                    "a1",
+                    "a2",
+                    "d1",
+                    "d2"
+                ]
+            },
+            "max_workload": 2160,
+            "stretchs": {
+                "max_on": 5,
+                "min_on": 2,
+                "min_off": 2
+            },
+            "weekends": 1,
+            "max_shifts": {
+                "a2": 0,
+                "d2": 0,
+                "p2": 0
+            }
+        }
+    },
+    "shifts_length": {
+        "a1": 480,
+        "a2": 480,
+        "d1": 480,
+        "d2": 480,
+        "p1": 480,
+        "p2": 480
+    }
+}
